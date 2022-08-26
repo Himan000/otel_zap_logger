@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"gitee.com/Himan000/otel_zap_logger/propagation/extract"
+	"github.com/Himan000/otel_zap_logger/propagation/extract"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/gin-gonic/gin"

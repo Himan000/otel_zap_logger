@@ -8,8 +8,8 @@ import (
 	"context"
 	"net/http"
 
-	"gitee.com/Himan000/otel_zap_logger"
-	"gitee.com/Himan000/otel_zap_logger/config"
+	"github.com/Himan000/otel_zap_logger"
+	"github.com/Himan000/otel_zap_logger/config"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 )

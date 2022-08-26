@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"gitee.com/Himan000/otel_zap_logger/propagation/extract"
-	"gitee.com/Himan000/otel_zap_logger/propagation/inject"
-	"github.comHiman000
+	"github.com/Himan000/otel_zap_logger/propagation/extract"
+	"github.com/Himan000/otel_zap_logger/propagation/inject"
+	"github.com/gin-gonic/gin"
 )
 
 // HTTPInject inject spanContext

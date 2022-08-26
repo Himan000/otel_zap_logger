@@ -1,4 +1,4 @@
-module gitee.com/Himan000/otel_zap_logger
+module github.com/Himan000/otel_zap_logger
 
 go 1.18
 

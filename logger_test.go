@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/Himan000/otel_zap_logger/propagation/extract"
+	"github.com/Himan000/otel_zap_logger/propagation/extract"
 	"github.com/gin-gonic/gin"
 )
 

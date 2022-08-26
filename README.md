@@ -17,7 +17,7 @@ tempo-->grafana
 #### Install
 
 ```text
-go get -u -v gitee.com/Himan000/otel_zap_logger
+go get -u -v github.com/Himan000/otel_zap_logger
 ```
 
 #### 使用

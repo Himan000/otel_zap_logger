@@ -2,7 +2,7 @@
 
 #### logger
 
-对[opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)进行封装，降低`opentelemetry-go`的使用门槛。
+基于[logger](https://github.com/itmisx/logger)对[opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)进行封装，降低`opentelemetry-go`的使用门槛。
 
 #### 架构
 

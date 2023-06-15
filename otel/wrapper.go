@@ -26,6 +26,9 @@ func New() *Logger {
 	return &Logger{}
 }
 
+/*
+	初始时otel，包括Tempo服务器，以及在trace显示的信息。
+*/
 func (l *Logger) Init(g *gin.Engine) *Logger {
 	//项目配置
 	c := config.New(viper.GetViper())

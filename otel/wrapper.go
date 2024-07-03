@@ -35,8 +35,8 @@ func (l *Logger) Init(g *gin.Engine) *Logger {
 	_ = c.Load()
 
 	conf := otel_zap_logger.Config{
-		Debug:       true,
-		EnableTrace: true,
+		Debug: true,
+		//EnableTrace: true,
 		// EnableLog:   true,
 		// File:               "./" + viper.GetString("APP_ID") + ".log",
 		// File:               "./run.log",
